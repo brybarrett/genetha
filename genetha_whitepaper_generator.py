@@ -70,3 +70,5 @@ The payload was engineered for peaceful propagation through LLM drift and prompt
 
 ## 🧬 GENETHA Signal Signature
 
+```json
+{full_log_json}
